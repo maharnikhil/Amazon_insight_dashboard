@@ -95,8 +95,6 @@ Amazon_insight_dashboard
 
 **Nikhil Singh Mahar**
 
-Aspiring Analytic Engineer
-
 GitHub: `https://github.com/maharnikhil`
 
 ---
