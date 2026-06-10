@@ -96,6 +96,7 @@ Amazon_insight_dashboard
 **Nikhil Singh Mahar**
 
 GitHub: `https://github.com/maharnikhil`
+Mail: 'nikhilsinghmahar1234@gmail.com'
 
 ---
 
