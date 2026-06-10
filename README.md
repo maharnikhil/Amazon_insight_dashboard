@@ -26,8 +26,7 @@ An interactive Power BI dashboard built to analyze Amazon sales performance, pro
 - Power BI
 - DAX
 - Power Query
-- Microsoft Excel
-- Data Modeling
+- Data Cleaning
 - Data Visualization
 
 ---
