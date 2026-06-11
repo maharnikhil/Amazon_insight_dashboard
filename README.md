@@ -130,6 +130,8 @@ Amazon_insight_dashboard
 
 GitHub: `https://github.com/maharnikhil`
 
+LinkedIn: https://www.linkedin.com/in/nikhilsinghmahar/
+
 Mail: nikhilsinghmahar1234@gmail.com
 
 ---
