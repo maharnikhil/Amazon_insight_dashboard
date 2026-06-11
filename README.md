@@ -6,6 +6,39 @@ An interactive Power BI dashboard built to analyze Amazon sales performance, pro
 
 ---
 
+## Business Problem
+
+Amazon generates large volumes of sales and product data across multiple categories and locations. Without a centralized analytics solution, it becomes difficult to identify which products are driving the most sales, which regions contribute the highest revenue, and where business efforts should be focused.
+
+Business stakeholders need answers to questions such as:
+
+- Which products are performing exceptionally well?
+- Which products require attention due to low sales?
+- Which cities and states generate the highest sales?
+- What order statuses are most common?
+- Where should marketing, inventory, and operational efforts be concentrated?
+
+Without these insights, organizations may miss growth opportunities and struggle to allocate resources effectively.
+
+---
+
+## Solution
+
+Developed an interactive Power BI dashboard that transforms raw sales data into actionable business insights.
+
+The dashboard enables users to:
+
+- Identify top-performing products and sales trends
+- Discover high-revenue cities and states
+- Monitor order fulfillment and shipment status
+- Analyze product-level performance through drill-through pages
+- Quickly locate products using an interactive search feature
+- Support data-driven decisions for inventory planning, marketing, and sales strategy
+
+By highlighting products and locations with the strongest demand, the dashboard helps stakeholders focus their efforts on areas with the highest business impact.
+
+---
+
 ## Features
 
 - KPI Monitoring (Total Sales, Sales Units, Seller Count)
